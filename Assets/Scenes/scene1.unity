@@ -77789,11 +77789,11 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 1345119335710002642, guid: 271470358072be445b11e762eab252da, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 16.56
+      value: 17.27
       objectReference: {fileID: 0}
     - target: {fileID: 1345119335710002642, guid: 271470358072be445b11e762eab252da, type: 3}
       propertyPath: m_LocalPosition.y
-      value: -4.4
+      value: -4.43
       objectReference: {fileID: 0}
     - target: {fileID: 1345119335710002642, guid: 271470358072be445b11e762eab252da, type: 3}
       propertyPath: m_LocalPosition.z
@@ -77834,6 +77834,18 @@ PrefabInstance:
     - target: {fileID: 4384950771868409295, guid: 271470358072be445b11e762eab252da, type: 3}
       propertyPath: m_TagString
       value: coin
+      objectReference: {fileID: 0}
+    - target: {fileID: 6268872233432996320, guid: 271470358072be445b11e762eab252da, type: 3}
+      propertyPath: m_Color.b
+      value: 0.31990921
+      objectReference: {fileID: 0}
+    - target: {fileID: 6268872233432996320, guid: 271470358072be445b11e762eab252da, type: 3}
+      propertyPath: m_Color.g
+      value: 0.8584906
+      objectReference: {fileID: 0}
+    - target: {fileID: 6268872233432996320, guid: 271470358072be445b11e762eab252da, type: 3}
+      propertyPath: m_Color.r
+      value: 0.44868478
       objectReference: {fileID: 0}
     - target: {fileID: 6268872233432996320, guid: 271470358072be445b11e762eab252da, type: 3}
       propertyPath: m_SortingOrder
@@ -77884,7 +77896,7 @@ MonoBehaviour:
           m_IntArgument: 0
           m_FloatArgument: 0
           m_StringArgument: 
-          m_BoolArgument: 0
+          m_BoolArgument: 1
         m_CallState: 2
   onTriggerExit:
     m_PersistentCalls:
